@@ -1,0 +1,7 @@
+D:\Projects\neo-payments\neo-payments\neo-payments\bin\Debug\neo-payments.dll
+D:\Projects\neo-payments\neo-payments\neo-payments\bin\Debug\neo-payments.pdb
+D:\Projects\neo-payments\neo-payments\neo-payments\bin\Debug\Neo.SmartContract.Framework.dll
+D:\Projects\neo-payments\neo-payments\neo-payments\obj\Debug\neo-payments.csprojResolveAssemblyReference.cache
+D:\Projects\neo-payments\neo-payments\neo-payments\obj\Debug\neo-payments.csproj.CoreCompileInputs.cache
+D:\Projects\neo-payments\neo-payments\neo-payments\obj\Debug\neo-payments.dll
+D:\Projects\neo-payments\neo-payments\neo-payments\obj\Debug\neo-payments.pdb
